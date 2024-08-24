@@ -1,4 +1,5 @@
-# FlutterIOT
+# iOT With FLUTTER
+iOT is the most trending part in the development.
 The simple IoT project using Flutter & Google Assistant
 
 ## Screenshot
